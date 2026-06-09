@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="./assets/banner.png" alt="Banner"/>
+<p align="center">
+  <img src="ai-banner.gif" width="900" alt="AI Banner"/>
+</p>
 
 # Hi 👋, I'm Siddhi Tomar
 
