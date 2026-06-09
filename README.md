@@ -1,9 +1,9 @@
 <div align="center">
-# Hi 👋, I'm Siddhi Tomar
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700"/>
 
 
-
+# Hi 👋, I'm Siddhi Tomar
 ### AI • Software • Research • Open Source
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Exploring+Agentic+Workflows;Researching+Intelligent+Models;Solving+Problems+Through+Code" />
