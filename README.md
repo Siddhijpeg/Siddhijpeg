@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="ai-banner.gif" width="900" alt="AI Banner"/>
+  <img src="[GIF_LINK_HERE](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="900" alt="AI Banner"/>
 </p>
-
 # Hi 👋, I'm Siddhi Tomar
 
 ### AI • Software • Research • Open Source
